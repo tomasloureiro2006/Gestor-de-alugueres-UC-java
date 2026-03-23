@@ -1,0 +1,8 @@
+ESTUDANTE;2025001;Cartão;Engenharia Informática;Polo II
+ESTUDANTE;2025002;MBWay;Medicina;Polo I
+ESTUDANTE;2025003;Cartão;Direito;Polo I
+ESTUDANTE;2025004;Transferência;Engenharia Civil;Polo III
+DOCENTE;1001;Transferência;2018;FEUC,FDUC
+DOCENTE;1002;Cartão;2022;FCTUC
+NAO_DOCENTE;3001;MB;2020;Biblioteca Central
+NAO_DOCENTE;3002;Cartão;2019;TI
